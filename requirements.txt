@@ -1,0 +1,7 @@
+﻿streamlit
+pymupdf
+spacy
+ollama
+mysql-connector-python
+
+python -m spacy download en_core_web_sm
