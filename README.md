@@ -14,7 +14,6 @@ An intelligent AI Agent that analyzes multiple candidate resumes and compares th
 ## 🧰 Tech Stack
 
 - **Frontend:** Streamlit
-- **Backend:** Python
 - **NLP:** spaCy
 - **LLM:** Llama 3.2:1b (via Ollama)
 - **Database:** XAMPP (MySQL)
