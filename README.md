@@ -9,7 +9,6 @@ An intelligent AI Agent that analyzes multiple candidate resumes and compares th
 - Uses NLP techniques and an LLM (Llama 3.2:1b via Ollama) for semantic matching
 - Automatically selects and displays the **Top 5 best-matching resumes**
 - Stores candidate information and match scores in a database
-- Streamlines hiring by reducing manual screening time
 
 ## 🧰 Tech Stack
 
