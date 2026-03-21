@@ -23,7 +23,7 @@ An intelligent AI Agent that analyzes multiple candidate resumes and compares th
 
 - **Frontend:** Streamlit
 - **NLP:** spaCy
-- **Model:s** Sentence BERT, Random Forest Classifier
+- **Models:** Sentence BERT, Random Forest Classifier
 - **LLM:** Llama 3.2:1b (via Ollama)
 - **Database:** MySQL
 
